@@ -1,6 +1,6 @@
 # Shows API
 
-Cliente de windows forms en el repositorio [ShowsApiCliente ](SolucionApi/images/ArquitecturaShows.png)
+Cliente de windows forms en el repositorio [ShowsApiCliente ](https://github.com/marcos-ms/ShowsApiCliente)
 
 ---
 
