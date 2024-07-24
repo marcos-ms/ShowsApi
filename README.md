@@ -5,7 +5,7 @@ Cliente de windows forms en el repositorio [ShowsApiCliente ](SolucionApi/images
 ---
 
 ## <u>Diagrama de Arquitectura de la API de Shows</u>
-![](D:\Users\marco\Pictures\ArquitecturaShows.png)
+![Arquitectura](SolucionApi/images/ArquitecturaShows.png)
 
 La API de Shows ha sido diseñada utilizando una arquitectura por capas para facilitar el mantenimiento, la escalabilidad y la separación de responsabilidades. A continuación se describe brevemente la función de cada módulo:
 
