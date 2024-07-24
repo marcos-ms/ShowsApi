@@ -1,0 +1,6 @@
+@SolucionApi_HostAddress = http://localhost:5209
+
+GET {{SolucionApi_HostAddress}}/shows/
+Accept: application/json
+
+###
